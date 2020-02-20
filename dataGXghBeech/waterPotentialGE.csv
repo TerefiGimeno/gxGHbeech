@@ -1,0 +1,131 @@
+Soil,Plant,Treat,Date,time,WP_Mpa,notes
+A,26,control,20180607,predawn,-0.45,nothing
+A,32,control,20180607,predawn,-0.584,nothing
+A,80,control,20180607,predawn,-0.862,nothing
+A,86,control,20180607,predawn,-0.98,nothing
+B,137,control,20180607,predawn,-0.513,nothing
+A,1,drought,20180607,predawn,-0.537,nothing
+A,14,drought,20180607,predawn,-0.59,nothing
+A,20,drought,20180607,predawn,-0.523,nothing
+A,44,drought,20180607,predawn,-1.538,nothing
+A,45,drought,20180607,predawn,-0.557,nothing
+B,110,control,20180607,predawn,-1.4,nothing
+B,133,control,20180607,predawn,-0.829,nothing
+B,141,control,20180607,predawn,-0.611,nothing
+C,177,control,20180607,predawn,-0.413,nothing
+C,220,control,20180607,predawn,-0.599,nothing
+B,110,control,20180607,midday,-1.18,nothing
+B,116,control,20180607,mid-morning,-1.284,nothing
+B,137,control,20180607,midday,-1.199,nothing
+B,111,drought,20180607,predawn,-1.96,nothing
+B,129,drought,20180607,predawn,-0.7,nothing
+B,132,drought,20180607,predawn,-1.465,nothing
+B,135,drought,20180607,predawn,-2,nothing
+B,144,drought,20180607,predawn,-0.856,nothing
+B,111,drought,20180607,midday,-2.26,nothing
+B,129,drought,20180607,midday,-1.952,nothing
+B,132,drought,20180607,midday,-2.019,nothing
+B,135,drought,20180607,midday,-2.741,nothing
+C,169,control,20180607,predawn,-0.783,nothing
+C,218,control,20180607,predawn,-1.6,nothing
+C,164,drought,20180607,predawn,-0.658,nothing
+C,167,drought,20180607,predawn,-1,nothing
+C,168,drought,20180607,predawn,-1.146,nothing
+C,182,drought,20180607,predawn,-0.694,nothing
+C,206,drought,20180607,predawn,-0.603,nothing
+A,18,50mL,20180620,predawn,-1.423,nothing
+A,38,50mL,20180620,predawn,NA,nothing
+A,57,50mL,20180620,predawn,-0.571,nothing
+A,69,50mL,20180620,predawn,-1.693,nothing
+A,18,50mL,20180620,mid-morning,-1.908,measurements from 9.30 to 11.00
+A,38,50mL,20180620,mid-morning,-2.428,measurements from 9.30 to 11.00
+A,57,50mL,20180620,mid-morning,-2.042,measurements from 9.30 to 11.00
+A,69,50mL,20180620,mid-morning,-2.258,measurements from 9.30 to 11.00
+A,18,50mL,20180620,midday,-2.806,measurements from 12.30 to 14.30
+A,38,50mL,20180620,midday,-2.308,measurements from 12.30 to 14.30
+A,57,50mL,20180620,midday,-2.061,measurements from 12.30 to 14.30
+A,69,50mL,20180620,midday,-2.258,measurements from 12.30 to 14.30
+A,7,control,20180620,predawn,-0.409,nothing
+A,47,control,20180620,predawn,-0.543,nothing
+A,81,control,20180620,predawn,-0.849,nothing
+A,91,control,20180620,predawn,-0.518,nothing
+A,7,control,20180620,mid-morning,-1.227,measurements from 9.30 to 11.00
+A,47,control,20180620,mid-morning,-1.712,measurements from 9.30 to 11.00
+A,91,control,20180620,mid-morning,-2.121,measurements from 9.30 to 11.00
+A,7,control,20180620,midday,-1.721,measurements from 12.30 to 14.30
+A,47,control,20180620,midday,-2.264,measurements from 12.30 to 14.30
+A,81,control,20180620,midday,-1.682,measurements from 12.30 to 14.30
+A,91,control,20180620,midday,-1.445,measurements from 12.30 to 14.30
+A,7,control,20180620,afternoon,-2.547,measurements from 2.30 to 4 PM
+A,47,control,20180620,afternoon,-1.386,measurements from 2.30 to 4 PM
+A,91,control,20180620,afternoon,-1.198,measurements from 2.30 to 4 PM
+A,9,drought,20180620,predawn,-4.383,nothing
+A,12,drought,20180620,predawn,-1.807,nothing
+A,15,drought,20180620,predawn,-1.504,nothing
+A,21,drought,20180620,predawn,-1.89,nothing
+A,89,drought,20180620,predawn,-2.644,nothing
+A,9,drought,20180620,mid-morning,-5.204,measurements from 9.30 to 11.00
+A,15,drought,20180620,mid-morning,-2.605,measurements from 9.30 to 11.00
+A,21,drought,20180620,mid-morning,NA,value below -7.2 Mpa. measurements from 9.30 to 11
+A,9,drought,20180620,midday,-5.342,measurements from 12.30 to 14.30
+A,12,drought,20180620,midday,-2.423,measurements from 12.30 to 14.30
+A,15,drought,20180620,midday,-2.531,measurements from 12.30 to 14.30
+A,21,drought,20180620,midday,-2.459,measurements from 12.30 to 14.30
+A,89,drought,20180620,midday,-2.854,measurements from 12.30 to 14.30
+B,102,control,20180620,predawn,-0.579,nothing
+B,112,control,20180620,predawn,-0.477,nothing
+B,114,control,20180620,predawn,-0.514,nothing
+B,116,control,20180620,predawn,-0.276,nothing
+B,102,control,20180620,midday,-1.953,measurements from 12.30 to 14.30
+B,112,control,20180620,midday,-1.629,measurements from 12.30 to 14.30
+B,114,control,20180620,midday,-1.53,measurements from 12.30 to 14.30
+B,116,control,20180620,midday,-1.631,measurements from 12.30 to 14.30
+B,109,drought,20180620,predawn,-2.507,nothing
+B,115,drought,20180620,predawn,-1.789,nothing
+B,123,drought,20180620,predawn,-1.816,nothing
+B,143,drought,20180620,predawn,-2.773,nothing
+B,150,drought,20180620,predawn,-2.372,nothing
+B,109,drought,20180620,midday,-2.356,measurements from 12.30 to 14.30
+B,115,drought,20180620,midday,-2.981,measurements from 12.30 to 14.30
+B,123,drought,20180620,midday,-2.519,measurements from 12.30 to 14.30
+B,143,drought,20180620,midday,-2.76,measurements from 12.30 to 14.30
+B,150,drought,20180620,midday,-2.662,measurements from 12.30 to 14.30
+C,172,50mL,20180620,predawn,-1.01,nothing
+C,174,50mL,20180620,predawn,-0.419,nothing
+C,211,50mL,20180620,predawn,-2.473,nothing
+C,215,50mL,20180620,predawn,-0.962,nothing
+C,172,50mL,20180620,mid-morning,-1.794,measurements from 9.30 to 11.00
+C,174,50mL,20180620,mid-morning,-1.166,measurements from 9.30 to 11.00
+C,211,50mL,20180620,mid-morning,-2.55,measurements from 9.30 to 11.00
+C,215,50mL,20180620,mid-morning,-1.39,measurements from 9.30 to 11.00
+C,172,50mL,20180620,midday,-2.719,measurements from 12.30 to 14.30
+C,174,50mL,20180620,midday,-1.741,measurements from 12.30 to 14.30
+C,211,50mL,20180620,midday,-3.205,measurements from 12.30 to 14.30
+C,215,50mL,20180620,midday,-2.251,measurements from 12.30 to 14.30
+C,162,control,20180620,predawn,-0.242,nothing
+C,195,control,20180620,predawn,-0.901,nothing
+C,200,control,20180620,predawn,-0.533,nothing
+C,203,control,20180620,predawn,-0.712,nothing
+C,162,control,20180620,mid-morning,-1.961,measurements from 9.30 to 11.00
+C,200,control,20180620,mid-morning,-2.127,measurements from 9.30 to 11.00
+C,203,control,20180620,mid-morning,-1.678,measurements from 9.30 to 11.00
+C,162,control,20180620,midday,-2.039,measurements from 12.30 to 14.30
+C,195,control,20180620,midday,-2.054,measurements from 12.30 to 14.30
+C,200,control,20180620,midday,-1.717,measurements from 12.30 to 14.30
+C,203,control,20180620,midday,-1.887,measurements from 12.30 to 14.30
+C,162,control,20180620,afternoon,-1.82,measurements from 2.30 to 4 PM
+C,200,control,20180620,afternoon,-2.348,measurements from 2.30 to 4 PM
+C,203,control,20180620,afternoon,-2.029,measurements from 2.30 to 4 PM
+C,188,drought,20180620,predawn,-3.987,nothing
+C,189,drought,20180620,predawn,-4.32,nothing
+C,208,drought,20180620,predawn,NA,value below -7.2 Mpa
+C,212,drought,20180620,predawn,-2.512,nothing
+C,216,drought,20180620,predawn,NA,value below -7.2 Mpa
+C,188,drought,20180620,mid-morning,NA,value below -7.2 Mpa. measurements from 9.30 to 11
+C,189,drought,20180620,mid-morning,-4.319,measurements from 9.30 to 11.00
+C,212,drought,20180620,mid-morning,-3.431,measurements from 9.30 to 11.00
+C,188,drought,20180620,midday,-4.075,measurements from 12.30 to 14.30
+C,189,drought,20180620,midday,-4.277,measurements from 12.30 to 14.30
+C,208,drought,20180620,midday,NA,value below -7.2 Mpa. measurements from 12.30 to 14.30
+C,212,drought,20180620,midday,-2.856,measurements from 12.30 to 14.30
+C,216,drought,20180620,midday,NA,value below -7.2 Mpa. measurements from 12.30 to 14.30

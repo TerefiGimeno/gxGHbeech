@@ -1,0 +1,204 @@
+"Plant","Date","Soil","Treat","pd_wp","notes_pd_wp","md_wp","notes_md_wp"
+1,20180607,"A","drought",-0.537,"nothing",NA,NA
+1,20180613,"A","drought",-0.578,"nothing",-0.815,"nothing"
+7,20180620,"A","control",-0.409,"nothing",-1.721,"measurements from 12.30 to 14.30"
+9,20180620,"A","drought",-4.383,"nothing",-5.342,"measurements from 12.30 to 14.30"
+10,20180528,"A","drought",-0.609,"nothing",NA,NA
+10,20180531,"A","drought",-0.673,"nothing",-1.76,"nothing"
+12,20180620,"A","drought",-1.807,"nothing",-2.423,"measurements from 12.30 to 14.30"
+13,20180522,"A","drought",-0.444,"nothing",NA,NA
+13,20180524,"A","drought",-0.624,"nothing",-1.67,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+14,20180607,"A","drought",-0.59,"nothing",NA,NA
+14,20180613,"A","drought",-0.69,"nothing",-2.236,"nothing"
+15,20180620,"A","drought",-1.504,"nothing",-2.531,"measurements from 12.30 to 14.30"
+16,20180528,"A","drought",-0.424,"nothing",NA,NA
+16,20180531,"A","drought",-0.76,"nothing",-0.927,"nothing"
+17,20180517,"A","drought",-0.47,"nothing",-1.66,"nothing"
+18,20180620,"A","50mL",-1.423,"nothing",-2.806,"measurements from 12.30 to 14.30"
+19,20180522,"A","drought",-0.394,"nothing",NA,NA
+19,20180524,"A","drought",-0.538,"nothing",-1.925,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+20,20180607,"A","drought",-0.523,"nothing",NA,NA
+20,20180613,"A","drought",-0.674,"nothing",-1.249,"nothing"
+21,20180620,"A","drought",-1.89,"nothing",-2.459,"measurements from 12.30 to 14.30"
+22,20180522,"A","drought",-0.278,"nothing",NA,NA
+22,20180524,"A","drought",-0.583,"nothing",-1.647,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+23,20180528,"A","drought",-0.834,"nothing",NA,NA
+23,20180531,"A","drought",-1.047,"nothing",-1.935,"nothing"
+24,20180522,"A","control",-0.739,"nothing",NA,NA
+24,20180524,"A","control",-0.779,"nothing",-2.066,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+26,20180607,"A","control",-0.45,"nothing",NA,NA
+26,20180613,"A","control",-1.098,"nothing",-2.242,"nothing"
+27,20180528,"A","drought",-0.702,"nothing",NA,NA
+27,20180531,"A","drought",-0.457,"nothing",-1.27,"nothing"
+32,20180607,"A","control",-0.584,"nothing",NA,NA
+32,20180613,"A","control",-0.399,"nothing",-1.712,"nothing"
+34,20180517,"A","drought",-0.583,"nothing",-1.95,"nothing"
+36,20180528,"A","drought",-0.5,"nothing",NA,NA
+36,20180531,"A","drought",-0.486,"nothing",-1.322,"nothing"
+37,20180522,"A","drought",-0.352,"nothing",NA,NA
+37,20180524,"A","drought",-0.421,"nothing",-1.324,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+38,20180620,"A","50mL",NA,"nothing",-2.308,"measurements from 12.30 to 14.30"
+39,20180517,"A","drought",-0.59,"nothing",-0.8,"nothing"
+42,20180522,"A","drought",-0.222,"nothing",NA,NA
+42,20180524,"A","drought",-0.486,"nothing",-1.604,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+43,20180517,"A","drought",-0.42,"nothing",-1.19,"nothing"
+44,20180607,"A","drought",-1.538,"nothing",NA,NA
+44,20180613,"A","drought",-3.17,"nothing",-3.597,"nothing"
+45,20180607,"A","drought",-0.557,"nothing",NA,NA
+45,20180613,"A","drought",-1.273,"nothing",-2.037,"nothing"
+47,20180620,"A","control",-0.543,"nothing",-2.264,"measurements from 12.30 to 14.30"
+48,20180522,"A","control",-0.347,"nothing",NA,NA
+48,20180524,"A","control",-0.606,"nothing",-1.58,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+50,20180517,"A","drought",-0.441,"nothing",-1.86,"nothing"
+54,20180522,"A","bag",-0.364,"nothing",NA,NA
+57,20180620,"A","50mL",-0.571,"nothing",-2.061,"measurements from 12.30 to 14.30"
+63,20180528,"A","bag",-0.376,"nothing",NA,NA
+65,20180528,"A","bag",-0.505,"nothing",NA,NA
+69,20180528,"A","bag",-0.287,"nothing",NA,NA
+69,20180620,"A","50mL",-1.693,"nothing",-2.258,"measurements from 12.30 to 14.30"
+71,20180517,"A","bag",-0.348,"nothing",-1.07,"nothing"
+74,20180524,"A","bag",-0.186,"nothing",-1.6,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+75,20180517,"A","bag",-0.9,"nothing",-1.62,"nothing"
+79,20180528,"A","bag",-0.209,"nothing",NA,NA
+80,20180607,"A","control",-0.862,"nothing",NA,NA
+80,20180613,"A","control",-0.739,"nothing",-1.422,"nothing"
+81,20180620,"A","control",-0.849,"nothing",-1.682,"measurements from 12.30 to 14.30"
+82,20180522,"A","bag",-0.416,"nothing",NA,NA
+82,20180524,"A","bag",-0.722,"nothing",-1.548,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+83,20180522,"A","bag",-0.407,"nothing",NA,NA
+84,20180522,"A","control",-1.467,"nothing",NA,NA
+84,20180524,"A","bag",-1.206,"nothing",-2.205,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+85,20180517,"A","bag",-0.355,"nothing",-1.67,"nothing"
+86,20180607,"A","control",-0.98,"nothing",NA,NA
+86,20180613,"A","control",-0.508,"nothing",-1.806,"nothing"
+87,20180524,"A","bag",-0.631,"nothing",-1.792,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+89,20180620,"A","drought",-2.644,"nothing",-2.854,"measurements from 12.30 to 14.30"
+90,20180517,"A","bag",-0.439,"nothing",-0.56,"nothing"
+91,20180620,"A","control",-0.518,"nothing",-1.445,"measurements from 12.30 to 14.30"
+92,20180522,"A","bag",-0.338,"nothing",NA,NA
+93,20180517,"A","bag",-0.48,"nothing",-1.29,"nothing"
+94,20180524,"A","bag",-0.847,"nothing",-1.886,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+95,20180522,"A","control",-0.217,"nothing",NA,NA
+95,20180524,"A","control",-0.58,"nothing",-1.808,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+98,20180528,"A","bag",-0.796,"nothing",NA,NA
+102,20180620,"B","control",-0.579,"nothing",-1.953,"measurements from 12.30 to 14.30"
+103,20180528,"B","drought",-0.405,"nothing",NA,NA
+103,20180531,"B","drought",-0.632,"nothing",-1.855,"nothing"
+104,20180517,"B","drought",-0.278,"nothing",-0.981,"nothing"
+106,20180528,"B","drought",-0.64,"nothing",NA,NA
+106,20180531,"B","drought",-0.901,"nothing",-1.529,"nothing"
+109,20180620,"B","drought",-2.507,"nothing",-2.356,"measurements from 12.30 to 14.30"
+110,20180607,"B","control",-1.4,"nothing",-1.18,"nothing"
+110,20180613,"B","control",-0.642,"nothing",-1.651,"nothing"
+111,20180607,"B","drought",-1.96,"nothing",-2.26,"nothing"
+111,20180613,"B","drought",-4.206,"nothing",-3.624,"nothing"
+112,20180620,"B","control",-0.477,"nothing",-1.629,"measurements from 12.30 to 14.30"
+113,20180517,"B","drought",-0.392,"nothing",-0.1,"nothing"
+114,20180620,"B","control",-0.514,"nothing",-1.53,"measurements from 12.30 to 14.30"
+115,20180620,"B","drought",-1.789,"nothing",-2.981,"measurements from 12.30 to 14.30"
+116,20180620,"B","control",-0.276,"nothing",-1.631,"measurements from 12.30 to 14.30"
+117,20180522,"B","drought",-0.322,"nothing",NA,NA
+117,20180524,"B","drought",-1.09,"nothing",-2.052,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+118,20180522,"B","drought",-0.639,"nothing",NA,NA
+118,20180524,"B","drought",-1.136,"nothing",-1.836,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+121,20180522,"B","control",-0.491,"nothing",NA,NA
+121,20180524,"B","control",-0.453,"nothing",-1.666,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+123,20180620,"B","drought",-1.816,"nothing",-2.519,"measurements from 12.30 to 14.30"
+125,20180517,"B","drought",-1.1,"nothing",-1.67,"nothing"
+129,20180607,"B","drought",-0.7,"nothing",-1.952,"nothing"
+129,20180613,"B","drought",-1.027,"nothing",-2.034,"nothing"
+132,20180607,"B","drought",-1.465,"nothing",-2.019,"nothing"
+132,20180613,"B","drought",-2.54,"nothing",-2.561,"nothing"
+133,20180607,"B","control",-0.829,"nothing",NA,NA
+133,20180613,"B","control",-1.054,"nothing",-1.534,"nothing"
+134,20180528,"B","drought",-0.463,"nothing",NA,NA
+134,20180531,"B","drought",-0.581,"nothing",-0.768,"nothing"
+135,20180607,"B","drought",-2,"nothing",-2.741,"nothing"
+135,20180613,"B","drought",-3.952,"nothing",-3.897,"nothing"
+136,20180517,"B","drought",-0.387,"nothing",-1.39,"nothing"
+137,20180607,"B","control",-0.513,"nothing",-1.199,"nothing"
+137,20180613,"B","control",-0.648,"nothing",NA,"this has to be wrong, original reading: -0.321 MPa"
+139,20180517,"B","drought",-0.89,"nothing",-0.8,"nothing"
+141,20180607,"B","control",-0.611,"nothing",NA,NA
+141,20180613,"B","control",-0.75,"nothing",-1.01,"nothing"
+143,20180620,"B","drought",-2.773,"nothing",-2.76,"measurements from 12.30 to 14.30"
+144,20180607,"B","drought",-0.856,"nothing",NA,NA
+144,20180613,"B","drought",-1.076,"nothing",-2.178,"nothing"
+146,20180522,"B","drought",-0.455,"nothing",NA,NA
+146,20180524,"B","drought",-0.633,"nothing",-2.236,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+148,20180522,"B","drought",-0.498,"nothing",NA,NA
+148,20180524,"B","drought",-0.52,"nothing",-1.659,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+150,20180620,"B","drought",-2.372,"nothing",-2.662,"measurements from 12.30 to 14.30"
+151,20180522,"B","control",-0.375,"nothing",NA,NA
+151,20180524,"B","control",-0.439,"nothing",-2.131,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+153,20180528,"B","drought",-0.426,"nothing",NA,NA
+153,20180531,"B","drought",-0.748,"nothing",-1.4,"nothing"
+156,20180522,"B","control",-0.563,"nothing",NA,NA
+156,20180524,"B","control",-0.534,"nothing",-1.773,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+158,20180528,"B","drought",-0.283,"nothing",NA,NA
+158,20180531,"B","drought",-0.531,"nothing",-1.1997,"nothing"
+160,20180522,"B","drought",-0.514,"nothing",NA,NA
+160,20180524,"B","drought",-0.854,"nothing",-1.822,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+162,20180620,"C","control",-0.242,"nothing",-2.039,"measurements from 12.30 to 14.30"
+163,20180522,"C","drought",-0.295,"nothing",NA,NA
+163,20180524,"C","drought",-0.912,"nothing",-1.507,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+164,20180607,"C","drought",-0.658,"nothing",NA,NA
+164,20180613,"C","drought",-1.218,"nothing",-1.692,"nothing"
+165,20180522,"C","drought",-0.512,"nothing",NA,NA
+165,20180524,"C","drought",-0.466,"nothing",-1.761,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+167,20180607,"C","drought",-1,"nothing",NA,NA
+167,20180613,"C","drought",-1.216,"nothing",-1.658,"nothing"
+168,20180607,"C","drought",-1.146,"nothing",NA,NA
+168,20180613,"C","drought",-2.5,"nothing",-3.519,"nothing"
+169,20180607,"C","control",-0.783,"nothing",NA,NA
+169,20180613,"C","control",-0.743,"nothing",-1.939,"nothing"
+170,20180522,"C","drought",-0.381,"nothing",NA,NA
+170,20180524,"C","drought",-0.339,"nothing",-1.95,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+171,20180517,"C","drought",-0.575,"nothing",-1.52,"nothing"
+172,20180620,"C","50mL",-1.01,"nothing",-2.719,"measurements from 12.30 to 14.30"
+174,20180620,"C","50mL",-0.419,"nothing",-1.741,"measurements from 12.30 to 14.30"
+175,20180517,"C","drought",-0.327,"nothing",-1.41,"nothing"
+176,20180522,"C","drought",-0.685,"nothing",NA,NA
+176,20180524,"C","drought",-0.802,"nothing",-1.678,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+177,20180607,"C","control",-0.413,"nothing",NA,NA
+177,20180613,"C","control",NA,"too late",-0.817,"nothing"
+179,20180517,"C","drought",-0.661,"nothing",-1.41,"nothing"
+181,20180522,"C","control",-0.509,"nothing",NA,NA
+181,20180524,"C","control",-0.59,"nothing",-2.621,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+182,20180607,"C","drought",-0.694,"nothing",NA,NA
+182,20180613,"C","drought",-1.075,"nothing",-1.513,"nothing"
+183,20180528,"C","drought",-0.484,"nothing",NA,NA
+183,20180531,"C","drought",-0.623,"nothing",-0.635,"nothing"
+186,20180528,"C","drought",-0.311,"nothing",NA,NA
+186,20180531,"C","drought",-0.589,"nothing",-1.607,"nothing"
+188,20180620,"C","drought",-3.987,"nothing",-4.075,"measurements from 12.30 to 14.30"
+189,20180620,"C","drought",-4.32,"nothing",-4.277,"measurements from 12.30 to 14.30"
+190,20180522,"C","control",-0.403,"nothing",NA,NA
+190,20180524,"C","control",-0.427,"nothing",-2.418,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+193,20180517,"C","drought",-0.382,"nothing",-1.35,"nothing"
+195,20180620,"C","control",-0.901,"nothing",-2.054,"measurements from 12.30 to 14.30"
+199,20180517,"C","drought",-0.343,"nothing",-1.44,"nothing"
+200,20180620,"C","control",-0.533,"nothing",-1.717,"measurements from 12.30 to 14.30"
+203,20180620,"C","control",-0.712,"nothing",-1.887,"measurements from 12.30 to 14.30"
+206,20180607,"C","drought",-0.603,"nothing",NA,NA
+206,20180613,"C","drought",-2.109,"nothing",-2.433,"nothing"
+208,20180620,"C","drought",NA,"value below -7.2 Mpa",NA,"value below -7.2 Mpa. measurements from 12.30 to 14.30"
+209,20180522,"C","drought",-0.663,"nothing",NA,NA
+209,20180524,"C","drought",-0.836,"nothing",-2.043,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+210,20180528,"C","drought",-0.529,"nothing",NA,NA
+210,20180531,"C","drought",-0.392,"nothing",-1.6,"nothing"
+211,20180522,"C","drought",-0.366,"nothing",NA,NA
+211,20180620,"C","50mL",-2.473,"nothing",-3.205,"measurements from 12.30 to 14.30"
+212,20180620,"C","drought",-2.512,"nothing",-2.856,"measurements from 12.30 to 14.30"
+213,20180528,"C","drought",-0.48,"nothing",NA,NA
+213,20180531,"C","drought",-0.979,"nothing",-1.639,"nothing"
+214,20180522,"C","control",-0.518,"nothing",NA,NA
+214,20180524,"C","control",-0.508,"nothing",-1.664,"some leaves were kept in a sealed bag in the sun for a bit too long!"
+215,20180620,"C","50mL",-0.962,"nothing",-2.251,"measurements from 12.30 to 14.30"
+216,20180620,"C","drought",NA,"value below -7.2 Mpa",NA,"value below -7.2 Mpa. measurements from 12.30 to 14.30"
+218,20180607,"C","control",-1.6,"nothing",NA,NA
+218,20180613,"C","control",-1.345,"nothing",-1.274,"nothing"
+219,20180528,"C","drought",-0.403,"nothing",NA,NA
+219,20180531,"C","drought",-0.388,"nothing",-1.425,"nothing"
+220,20180607,"C","control",-0.599,"nothing",NA,NA
+220,20180613,"C","control",-1.622,"nothing",-1.753,"nothing"

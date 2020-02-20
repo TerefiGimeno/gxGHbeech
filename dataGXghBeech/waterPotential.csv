@@ -1,0 +1,363 @@
+Soil,Plant,Treat,Date,time,WP_Mpa,notes
+A,71,bag,20180517,predawn,-0.348,nothing
+A,75,bag,20180517,predawn,-0.9,nothing
+A,85,bag,20180517,predawn,-0.355,nothing
+A,90,bag,20180517,predawn,-0.439,nothing
+A,93,bag,20180517,predawn,-0.48,nothing
+A,71,bag,20180517,midday,-1.07,nothing
+A,75,bag,20180517,midday,-1.62,nothing
+A,85,bag,20180517,midday,-1.67,nothing
+A,90,bag,20180517,midday,-0.56,nothing
+A,93,bag,20180517,midday,-1.29,nothing
+A,17,drought,20180517,predawn,-0.47,nothing
+A,34,drought,20180517,predawn,-0.583,nothing
+A,39,drought,20180517,predawn,-0.59,nothing
+A,43,drought,20180517,predawn,-0.42,nothing
+A,50,drought,20180517,predawn,-0.441,nothing
+A,17,drought,20180517,midday,-1.66,nothing
+A,34,drought,20180517,midday,-1.95,nothing
+A,39,drought,20180517,midday,-0.8,nothing
+A,43,drought,20180517,midday,-1.19,nothing
+A,50,drought,20180517,midday,-1.86,nothing
+B,104,drought,20180517,predawn,-0.278,nothing
+B,113,drought,20180517,predawn,-0.392,nothing
+B,125,drought,20180517,predawn,-1.1,nothing
+B,136,drought,20180517,predawn,-0.387,nothing
+B,139,drought,20180517,predawn,-0.89,nothing
+B,104,drought,20180517,midday,-0.981,nothing
+B,113,drought,20180517,midday,-0.1,nothing
+B,125,drought,20180517,midday,-1.67,nothing
+B,136,drought,20180517,midday,-1.39,nothing
+B,139,drought,20180517,midday,-0.8,nothing
+C,171,drought,20180517,predawn,-0.575,nothing
+C,175,drought,20180517,predawn,-0.327,nothing
+C,179,drought,20180517,predawn,-0.661,nothing
+C,193,drought,20180517,predawn,-0.382,nothing
+C,199,drought,20180517,predawn,-0.343,nothing
+C,171,drought,20180517,midday,-1.52,nothing
+C,175,drought,20180517,midday,-1.41,nothing
+C,179,drought,20180517,midday,-1.41,nothing
+C,193,drought,20180517,midday,-1.35,nothing
+C,199,drought,20180517,midday,-1.44,nothing
+A,54,bag,20180522,predawn,-0.364,nothing
+A,82,bag,20180522,predawn,-0.416,nothing
+A,83,bag,20180522,predawn,-0.407,nothing
+A,92,bag,20180522,predawn,-0.338,nothing
+A,24,control,20180522,predawn,-0.739,nothing
+A,48,control,20180522,predawn,-0.347,nothing
+A,84,control,20180522,predawn,-1.467,nothing
+A,95,control,20180522,predawn,-0.217,nothing
+A,13,drought,20180522,predawn,-0.444,nothing
+A,19,drought,20180522,predawn,-0.394,nothing
+A,22,drought,20180522,predawn,-0.278,nothing
+A,37,drought,20180522,predawn,-0.352,nothing
+A,42,drought,20180522,predawn,-0.222,nothing
+B,121,control,20180522,predawn,-0.491,nothing
+B,151,control,20180522,predawn,-0.375,nothing
+B,156,control,20180522,predawn,-0.563,nothing
+B,117,drought,20180522,predawn,-0.322,nothing
+B,118,drought,20180522,predawn,-0.639,nothing
+B,146,drought,20180522,predawn,-0.455,nothing
+B,148,drought,20180522,predawn,-0.498,nothing
+B,160,drought,20180522,predawn,-0.514,nothing
+C,181,control,20180522,predawn,-0.509,nothing
+C,190,control,20180522,predawn,-0.403,nothing
+C,214,control,20180522,predawn,-0.518,nothing
+C,163,drought,20180522,predawn,-0.295,nothing
+C,165,drought,20180522,predawn,-0.512,nothing
+C,170,drought,20180522,predawn,-0.381,nothing
+C,176,drought,20180522,predawn,-0.685,nothing
+C,209,drought,20180522,predawn,-0.663,nothing
+C,211,drought,20180522,predawn,-0.366,nothing
+A,74,bag,20180524,predawn,-0.186,nothing
+A,82,bag,20180524,predawn,-0.722,nothing
+A,84,bag,20180524,predawn,-1.206,nothing
+A,87,bag,20180524,predawn,-0.631,nothing
+A,94,bag,20180524,predawn,-0.847,nothing
+A,74,bag,20180524,midday,-1.6,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,82,bag,20180524,midday,-1.548,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,84,bag,20180524,midday,-2.205,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,87,bag,20180524,midday,-1.792,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,94,bag,20180524,midday,-1.886,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,24,control,20180524,predawn,-0.779,nothing
+A,48,control,20180524,predawn,-0.606,nothing
+A,95,control,20180524,predawn,-0.58,nothing
+A,24,control,20180524,midday,-2.066,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,48,control,20180524,midday,-1.58,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,95,control,20180524,midday,-1.808,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,13,drought,20180524,predawn,-0.624,nothing
+A,19,drought,20180524,predawn,-0.538,nothing
+A,22,drought,20180524,predawn,-0.583,nothing
+A,37,drought,20180524,predawn,-0.421,nothing
+A,42,drought,20180524,predawn,-0.486,nothing
+A,13,drought,20180524,midday,-1.67,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,19,drought,20180524,midday,-1.925,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,22,drought,20180524,midday,-1.647,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,37,drought,20180524,midday,-1.324,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,42,drought,20180524,midday,-1.604,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,121,control,20180524,predawn,-0.453,nothing
+B,151,control,20180524,predawn,-0.439,nothing
+B,156,control,20180524,predawn,-0.534,nothing
+B,121,control,20180524,midday,-1.666,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,151,control,20180524,midday,-2.131,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,156,control,20180524,midday,-1.773,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,117,drought,20180524,predawn,-1.09,nothing
+B,118,drought,20180524,predawn,-1.136,nothing
+B,146,drought,20180524,predawn,-0.633,nothing
+B,148,drought,20180524,predawn,-0.52,nothing
+B,160,drought,20180524,predawn,-0.854,nothing
+B,117,drought,20180524,midday,-2.052,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,118,drought,20180524,midday,-1.836,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,146,drought,20180524,midday,-2.236,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,148,drought,20180524,midday,-1.659,some leaves were kept in a sealed bag in the sun for a bit too long!
+B,160,drought,20180524,midday,-1.822,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,181,control,20180524,predawn,-0.59,nothing
+C,190,control,20180524,predawn,-0.427,nothing
+C,214,control,20180524,predawn,-0.508,nothing
+C,181,control,20180524,midday,-2.621,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,190,control,20180524,midday,-2.418,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,214,control,20180524,midday,-1.664,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,163,drought,20180524,predawn,-0.912,nothing
+C,165,drought,20180524,predawn,-0.466,nothing
+C,170,drought,20180524,predawn,-0.339,nothing
+C,176,drought,20180524,predawn,-0.802,nothing
+C,209,drought,20180524,predawn,-0.836,nothing
+C,163,drought,20180524,midday,-1.507,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,165,drought,20180524,midday,-1.761,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,170,drought,20180524,midday,-1.95,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,176,drought,20180524,midday,-1.678,some leaves were kept in a sealed bag in the sun for a bit too long!
+C,209,drought,20180524,midday,-2.043,some leaves were kept in a sealed bag in the sun for a bit too long!
+A,63,bag,20180528,predawn,-0.376,nothing
+A,65,bag,20180528,predawn,-0.505,nothing
+A,69,bag,20180528,predawn,-0.287,nothing
+A,79,bag,20180528,predawn,-0.209,nothing
+A,98,bag,20180528,predawn,-0.796,nothing
+A,10,drought,20180528,predawn,-0.609,nothing
+A,16,drought,20180528,predawn,-0.424,nothing
+A,23,drought,20180528,predawn,-0.834,nothing
+A,27,drought,20180528,predawn,-0.702,nothing
+A,36,drought,20180528,predawn,-0.5,nothing
+B,103,drought,20180528,predawn,-0.405,nothing
+B,106,drought,20180528,predawn,-0.64,nothing
+B,134,drought,20180528,predawn,-0.463,nothing
+B,153,drought,20180528,predawn,-0.426,nothing
+B,158,drought,20180528,predawn,-0.283,nothing
+C,183,drought,20180528,predawn,-0.484,nothing
+C,186,drought,20180528,predawn,-0.311,nothing
+C,210,drought,20180528,predawn,-0.529,nothing
+C,213,drought,20180528,predawn,-0.48,nothing
+C,219,drought,20180528,predawn,-0.403,nothing
+A,10,drought,20180531,predawn,-0.673,nothing
+A,16,drought,20180531,predawn,-0.76,nothing
+A,23,drought,20180531,predawn,-1.047,nothing
+A,27,drought,20180531,predawn,-0.457,nothing
+A,36,drought,20180531,predawn,-0.486,nothing
+A,10,drought,20180531,midday,-1.76,nothing
+A,16,drought,20180531,midday,-0.927,nothing
+A,23,drought,20180531,midday,-1.935,nothing
+A,27,drought,20180531,midday,-1.27,nothing
+A,36,drought,20180531,midday,-1.322,nothing
+B,103,drought,20180531,predawn,-0.632,nothing
+B,106,drought,20180531,predawn,-0.901,nothing
+B,134,drought,20180531,predawn,-0.581,nothing
+B,153,drought,20180531,predawn,-0.748,nothing
+B,158,drought,20180531,predawn,-0.531,nothing
+B,103,drought,20180531,midday,-1.855,nothing
+B,106,drought,20180531,midday,-1.529,nothing
+B,134,drought,20180531,midday,-0.768,nothing
+B,153,drought,20180531,midday,-1.4,nothing
+B,158,drought,20180531,midday,-1.1997,nothing
+C,183,drought,20180531,predawn,-0.623,nothing
+C,186,drought,20180531,predawn,-0.589,nothing
+C,210,drought,20180531,predawn,-0.392,nothing
+C,213,drought,20180531,predawn,-0.979,nothing
+C,219,drought,20180531,predawn,-0.388,nothing
+C,183,drought,20180531,midday,-0.635,nothing
+C,186,drought,20180531,midday,-1.607,nothing
+C,210,drought,20180531,midday,-1.6,nothing
+C,213,drought,20180531,midday,-1.639,nothing
+C,219,drought,20180531,midday,-1.425,nothing
+A,26,control,20180607,predawn,-0.45,nothing
+A,32,control,20180607,predawn,-0.584,nothing
+A,80,control,20180607,predawn,-0.862,nothing
+A,86,control,20180607,predawn,-0.98,nothing
+B,137,control,20180607,predawn,-0.513,nothing
+A,1,drought,20180607,predawn,-0.537,nothing
+A,14,drought,20180607,predawn,-0.59,nothing
+A,20,drought,20180607,predawn,-0.523,nothing
+A,44,drought,20180607,predawn,-1.538,nothing
+A,45,drought,20180607,predawn,-0.557,nothing
+B,110,control,20180607,predawn,-1.4,nothing
+B,133,control,20180607,predawn,-0.829,nothing
+B,141,control,20180607,predawn,-0.611,nothing
+C,177,control,20180607,predawn,-0.413,nothing
+C,220,control,20180607,predawn,-0.599,nothing
+B,110,control,20180607,midday,-1.18,nothing
+B,116,control,20180607,mid-morning,-1.284,nothing
+B,137,control,20180607,midday,-1.199,nothing
+B,111,drought,20180607,predawn,-1.96,nothing
+B,129,drought,20180607,predawn,-0.7,nothing
+B,132,drought,20180607,predawn,-1.465,nothing
+B,135,drought,20180607,predawn,-2,nothing
+B,144,drought,20180607,predawn,-0.856,nothing
+B,111,drought,20180607,midday,-2.26,nothing
+B,129,drought,20180607,midday,-1.952,nothing
+B,132,drought,20180607,midday,-2.019,nothing
+B,135,drought,20180607,midday,-2.741,nothing
+C,169,control,20180607,predawn,-0.783,nothing
+C,218,control,20180607,predawn,-1.6,nothing
+C,164,drought,20180607,predawn,-0.658,nothing
+C,167,drought,20180607,predawn,-1,nothing
+C,168,drought,20180607,predawn,-1.146,nothing
+C,182,drought,20180607,predawn,-0.694,nothing
+C,206,drought,20180607,predawn,-0.603,nothing
+A,26,control,20180613,predawn,-1.098,nothing
+A,32,control,20180613,predawn,-0.399,nothing
+A,80,control,20180613,predawn,-0.739,nothing
+A,86,control,20180613,predawn,-0.508,nothing
+A,26,control,20180613,midday,-2.242,nothing
+A,32,control,20180613,midday,-1.712,nothing
+A,80,control,20180613,midday,-1.422,nothing
+A,86,control,20180613,midday,-1.806,nothing
+B,137,control,20180613,midday,NA,"this has to be wrong, original reading: -0.321 MPa"
+A,1,drought,20180613,predawn,-0.578,nothing
+A,14,drought,20180613,predawn,-0.69,nothing
+A,20,drought,20180613,predawn,-0.674,nothing
+A,44,drought,20180613,predawn,-3.17,nothing
+A,45,drought,20180613,predawn,-1.273,nothing
+A,1,drought,20180613,midday,-0.815,nothing
+A,14,drought,20180613,midday,-2.236,nothing
+A,20,drought,20180613,midday,-1.249,nothing
+A,44,drought,20180613,midday,-3.597,nothing
+A,45,drought,20180613,midday,-2.037,nothing
+B,110,control,20180613,predawn,-0.642,nothing
+B,133,control,20180613,predawn,-1.054,nothing
+B,137,control,20180613,predawn,-0.648,nothing
+B,141,control,20180613,predawn,-0.75,nothing
+C,177,control,20180613,predawn,NA,too late
+C,220,control,20180613,predawn,-1.622,nothing
+B,110,control,20180613,midday,-1.651,nothing
+B,133,control,20180613,midday,-1.534,nothing
+B,141,control,20180613,midday,-1.01,nothing
+C,177,control,20180613,midday,-0.817,nothing
+C,220,control,20180613,midday,-1.753,nothing
+B,111,drought,20180613,predawn,-4.206,nothing
+B,129,drought,20180613,predawn,-1.027,nothing
+B,132,drought,20180613,predawn,-2.54,nothing
+B,135,drought,20180613,predawn,-3.952,nothing
+B,144,drought,20180613,predawn,-1.076,nothing
+B,111,drought,20180613,midday,-3.624,nothing
+B,129,drought,20180613,midday,-2.034,nothing
+B,132,drought,20180613,midday,-2.561,nothing
+B,135,drought,20180613,midday,-3.897,nothing
+B,144,drought,20180613,midday,-2.178,nothing
+C,169,control,20180613,predawn,-0.743,nothing
+C,218,control,20180613,predawn,-1.345,nothing
+C,169,control,20180613,midday,-1.939,nothing
+C,218,control,20180613,midday,-1.274,nothing
+C,164,drought,20180613,predawn,-1.218,nothing
+C,167,drought,20180613,predawn,-1.216,nothing
+C,168,drought,20180613,predawn,-2.5,nothing
+C,182,drought,20180613,predawn,-1.075,nothing
+C,206,drought,20180613,predawn,-2.109,nothing
+C,164,drought,20180613,midday,-1.692,nothing
+C,167,drought,20180613,midday,-1.658,nothing
+C,168,drought,20180613,midday,-3.519,nothing
+C,182,drought,20180613,midday,-1.513,nothing
+C,206,drought,20180613,midday,-2.433,nothing
+A,18,50mL,20180620,predawn,-1.423,nothing
+A,38,50mL,20180620,predawn,NA,nothing
+A,57,50mL,20180620,predawn,-0.571,nothing
+A,69,50mL,20180620,predawn,-1.693,nothing
+A,18,50mL,20180620,mid-morning,-1.908,measurements from 9.30 to 11.00
+A,38,50mL,20180620,mid-morning,-2.428,measurements from 9.30 to 11.00
+A,57,50mL,20180620,mid-morning,-2.042,measurements from 9.30 to 11.00
+A,69,50mL,20180620,mid-morning,-2.258,measurements from 9.30 to 11.00
+A,18,50mL,20180620,midday,-2.806,measurements from 12.30 to 14.30
+A,38,50mL,20180620,midday,-2.308,measurements from 12.30 to 14.30
+A,57,50mL,20180620,midday,-2.061,measurements from 12.30 to 14.30
+A,69,50mL,20180620,midday,-2.258,measurements from 12.30 to 14.30
+A,7,control,20180620,predawn,-0.409,nothing
+A,47,control,20180620,predawn,-0.543,nothing
+A,81,control,20180620,predawn,-0.849,nothing
+A,91,control,20180620,predawn,-0.518,nothing
+A,7,control,20180620,mid-morning,-1.227,measurements from 9.30 to 11.00
+A,47,control,20180620,mid-morning,-1.712,measurements from 9.30 to 11.00
+A,91,control,20180620,mid-morning,-2.121,measurements from 9.30 to 11.00
+A,7,control,20180620,midday,-1.721,measurements from 12.30 to 14.30
+A,47,control,20180620,midday,-2.264,measurements from 12.30 to 14.30
+A,81,control,20180620,midday,-1.682,measurements from 12.30 to 14.30
+A,91,control,20180620,midday,-1.445,measurements from 12.30 to 14.30
+A,7,control,20180620,afternoon,-2.547,measurements from 2.30 to 4 PM
+A,47,control,20180620,afternoon,-1.386,measurements from 2.30 to 4 PM
+A,91,control,20180620,afternoon,-1.198,measurements from 2.30 to 4 PM
+A,9,drought,20180620,predawn,-4.383,nothing
+A,12,drought,20180620,predawn,-1.807,nothing
+A,15,drought,20180620,predawn,-1.504,nothing
+A,21,drought,20180620,predawn,-1.89,nothing
+A,89,drought,20180620,predawn,-2.644,nothing
+A,9,drought,20180620,mid-morning,-5.204,measurements from 9.30 to 11.00
+A,15,drought,20180620,mid-morning,-2.605,measurements from 9.30 to 11.00
+A,21,drought,20180620,mid-morning,NA,value below -7.2 Mpa. measurements from 9.30 to 11
+A,9,drought,20180620,midday,-5.342,measurements from 12.30 to 14.30
+A,12,drought,20180620,midday,-2.423,measurements from 12.30 to 14.30
+A,15,drought,20180620,midday,-2.531,measurements from 12.30 to 14.30
+A,21,drought,20180620,midday,-2.459,measurements from 12.30 to 14.30
+A,89,drought,20180620,midday,-2.854,measurements from 12.30 to 14.30
+B,102,control,20180620,predawn,-0.579,nothing
+B,112,control,20180620,predawn,-0.477,nothing
+B,114,control,20180620,predawn,-0.514,nothing
+B,116,control,20180620,predawn,-0.276,nothing
+B,102,control,20180620,midday,-1.953,measurements from 12.30 to 14.30
+B,112,control,20180620,midday,-1.629,measurements from 12.30 to 14.30
+B,114,control,20180620,midday,-1.53,measurements from 12.30 to 14.30
+B,116,control,20180620,midday,-1.631,measurements from 12.30 to 14.30
+B,109,drought,20180620,predawn,-2.507,nothing
+B,115,drought,20180620,predawn,-1.789,nothing
+B,123,drought,20180620,predawn,-1.816,nothing
+B,143,drought,20180620,predawn,-2.773,nothing
+B,150,drought,20180620,predawn,-2.372,nothing
+B,109,drought,20180620,midday,-2.356,measurements from 12.30 to 14.30
+B,115,drought,20180620,midday,-2.981,measurements from 12.30 to 14.30
+B,123,drought,20180620,midday,-2.519,measurements from 12.30 to 14.30
+B,143,drought,20180620,midday,-2.76,measurements from 12.30 to 14.30
+B,150,drought,20180620,midday,-2.662,measurements from 12.30 to 14.30
+C,172,50mL,20180620,predawn,-1.01,nothing
+C,174,50mL,20180620,predawn,-0.419,nothing
+C,211,50mL,20180620,predawn,-2.473,nothing
+C,215,50mL,20180620,predawn,-0.962,nothing
+C,172,50mL,20180620,mid-morning,-1.794,measurements from 9.30 to 11.00
+C,174,50mL,20180620,mid-morning,-1.166,measurements from 9.30 to 11.00
+C,211,50mL,20180620,mid-morning,-2.55,measurements from 9.30 to 11.00
+C,215,50mL,20180620,mid-morning,-1.39,measurements from 9.30 to 11.00
+C,172,50mL,20180620,midday,-2.719,measurements from 12.30 to 14.30
+C,174,50mL,20180620,midday,-1.741,measurements from 12.30 to 14.30
+C,211,50mL,20180620,midday,-3.205,measurements from 12.30 to 14.30
+C,215,50mL,20180620,midday,-2.251,measurements from 12.30 to 14.30
+C,162,control,20180620,predawn,-0.242,nothing
+C,195,control,20180620,predawn,-0.901,nothing
+C,200,control,20180620,predawn,-0.533,nothing
+C,203,control,20180620,predawn,-0.712,nothing
+C,162,control,20180620,mid-morning,-1.961,measurements from 9.30 to 11.00
+C,200,control,20180620,mid-morning,-2.127,measurements from 9.30 to 11.00
+C,203,control,20180620,mid-morning,-1.678,measurements from 9.30 to 11.00
+C,162,control,20180620,midday,-2.039,measurements from 12.30 to 14.30
+C,195,control,20180620,midday,-2.054,measurements from 12.30 to 14.30
+C,200,control,20180620,midday,-1.717,measurements from 12.30 to 14.30
+C,203,control,20180620,midday,-1.887,measurements from 12.30 to 14.30
+C,162,control,20180620,afternoon,-1.82,measurements from 2.30 to 4 PM
+C,200,control,20180620,afternoon,-2.348,measurements from 2.30 to 4 PM
+C,203,control,20180620,afternoon,-2.029,measurements from 2.30 to 4 PM
+C,188,drought,20180620,predawn,-3.987,nothing
+C,189,drought,20180620,predawn,-4.32,nothing
+C,208,drought,20180620,predawn,NA,value below -7.2 Mpa
+C,212,drought,20180620,predawn,-2.512,nothing
+C,216,drought,20180620,predawn,NA,value below -7.2 Mpa
+C,188,drought,20180620,mid-morning,NA,value below -7.2 Mpa. measurements from 9.30 to 11
+C,189,drought,20180620,mid-morning,-4.319,measurements from 9.30 to 11.00
+C,212,drought,20180620,mid-morning,-3.431,measurements from 9.30 to 11.00
+C,188,drought,20180620,midday,-4.075,measurements from 12.30 to 14.30
+C,189,drought,20180620,midday,-4.277,measurements from 12.30 to 14.30
+C,208,drought,20180620,midday,NA,value below -7.2 Mpa. measurements from 12.30 to 14.30
+C,212,drought,20180620,midday,-2.856,measurements from 12.30 to 14.30
+C,216,drought,20180620,midday,NA,value below -7.2 Mpa. measurements from 12.30 to 14.30
