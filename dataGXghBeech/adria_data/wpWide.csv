@@ -1,0 +1,119 @@
+Plant,Date,Soil,Treat,pd_wp,notes_pd_wp,md_wp,notes_md_wp
+71,180517,A,BAG,-0.348,nothing,-1.07,nothing
+75,180517,A,BAG,-0.9,nothing,-1.62,nothing
+85,180517,A,BAG,-0.355,nothing,-1.67,nothing
+90,180517,A,BAG,-0.439,nothing,-0.56,nothing
+93,180517,A,BAG,-0.48,nothing,-1.29,nothing
+74,180524,A,BAG,-0.186,nothing,-1.6,some leaves were kept in a sealed bag in the sun for a bit too long!
+82,180524,A,BAG,-0.722,nothing,-1.548,some leaves were kept in a sealed bag in the sun for a bit too long!
+84,180524,A,BAG,-1.206,nothing,-2.205,some leaves were kept in a sealed bag in the sun for a bit too long!
+87,180524,A,BAG,-0.631,nothing,-1.792,some leaves were kept in a sealed bag in the sun for a bit too long!
+94,180524,A,BAG,-0.847,nothing,-1.886,some leaves were kept in a sealed bag in the sun for a bit too long!
+24,180524,A,CONTROL,-0.779,nothing,-2.066,some leaves were kept in a sealed bag in the sun for a bit too long!
+48,180524,A,CONTROL,-0.606,nothing,-1.58,some leaves were kept in a sealed bag in the sun for a bit too long!
+95,180524,A,CONTROL,-0.58,nothing,-1.808,some leaves were kept in a sealed bag in the sun for a bit too long!
+121,180524,B,CONTROL,-0.453,nothing,-1.666,some leaves were kept in a sealed bag in the sun for a bit too long!
+151,180524,B,CONTROL,-0.439,nothing,-2.131,some leaves were kept in a sealed bag in the sun for a bit too long!
+156,180524,B,CONTROL,-0.534,nothing,-1.773,some leaves were kept in a sealed bag in the sun for a bit too long!
+181,180524,C,CONTROL,-0.59,nothing,-2.621,some leaves were kept in a sealed bag in the sun for a bit too long!
+190,180524,C,CONTROL,-0.427,nothing,-2.418,some leaves were kept in a sealed bag in the sun for a bit too long!
+214,180524,C,CONTROL,-0.508,nothing,-1.664,some leaves were kept in a sealed bag in the sun for a bit too long!
+26,180613,A,CONTROL,-1.098,nothing,-2.242,nothing
+32,180613,A,CONTROL,-0.399,nothing,-1.712,nothing
+80,180613,A,CONTROL,-0.739,nothing,-1.422,nothing
+86,180613,A,CONTROL,-0.508,nothing,-1.806,nothing
+110,180613,B,CONTROL,-0.642,nothing,-1.651,nothing
+133,180613,B,CONTROL,-1.054,nothing,-1.534,nothing
+137,180613,B,CONTROL,-0.648,nothing,NA,"this has to be wrong, original reading: -0.321 MPa"
+141,180613,B,CONTROL,-0.75,nothing,-1.01,nothing
+169,180613,C,CONTROL,-0.743,nothing,-1.939,nothing
+177,180613,C,CONTROL,NA,too late,-0.817,nothing
+218,180613,C,CONTROL,-1.345,nothing,-1.274,nothing
+220,180613,C,CONTROL,-1.622,nothing,-1.753,nothing
+7,180620,A,CONTROL,-0.409,nothing,-1.721,measurements from 12.30 to 14.30
+47,180620,A,CONTROL,-0.543,nothing,-2.264,measurements from 12.30 to 14.30
+81,180620,A,CONTROL,-0.849,nothing,-1.682,measurements from 12.30 to 14.30
+91,180620,A,CONTROL,-0.518,nothing,-1.445,measurements from 12.30 to 14.30
+102,180620,B,CONTROL,-0.579,nothing,-1.953,measurements from 12.30 to 14.30
+112,180620,B,CONTROL,-0.477,nothing,-1.629,measurements from 12.30 to 14.30
+114,180620,B,CONTROL,-0.514,nothing,-1.53,measurements from 12.30 to 14.30
+116,180620,B,CONTROL,-0.276,nothing,-1.631,measurements from 12.30 to 14.30
+162,180620,C,CONTROL,-0.242,nothing,-2.039,measurements from 12.30 to 14.30
+195,180620,C,CONTROL,-0.901,nothing,-2.054,measurements from 12.30 to 14.30
+200,180620,C,CONTROL,-0.533,nothing,-1.717,measurements from 12.30 to 14.30
+203,180620,C,CONTROL,-0.712,nothing,-1.887,measurements from 12.30 to 14.30
+17,180517,A,DRY,-0.47,nothing,-1.66,nothing
+34,180517,A,DRY,-0.583,nothing,-1.95,nothing
+39,180517,A,DRY,-0.59,nothing,-0.8,nothing
+43,180517,A,DRY,-0.42,nothing,-1.19,nothing
+50,180517,A,DRY,-0.441,nothing,-1.86,nothing
+104,180517,B,DRY,-0.278,nothing,-0.981,nothing
+113,180517,B,DRY,-0.392,nothing,-0.1,nothing
+125,180517,B,DRY,-1.1,nothing,-1.67,nothing
+136,180517,B,DRY,-0.387,nothing,-1.39,nothing
+139,180517,B,DRY,-0.89,nothing,-0.8,nothing
+171,180517,C,DRY,-0.575,nothing,-1.52,nothing
+175,180517,C,DRY,-0.327,nothing,-1.41,nothing
+179,180517,C,DRY,-0.661,nothing,-1.41,nothing
+193,180517,C,DRY,-0.382,nothing,-1.35,nothing
+199,180517,C,DRY,-0.343,nothing,-1.44,nothing
+13,180524,A,DRY,-0.624,nothing,-1.67,some leaves were kept in a sealed bag in the sun for a bit too long!
+19,180524,A,DRY,-0.538,nothing,-1.925,some leaves were kept in a sealed bag in the sun for a bit too long!
+22,180524,A,DRY,-0.583,nothing,-1.647,some leaves were kept in a sealed bag in the sun for a bit too long!
+37,180524,A,DRY,-0.421,nothing,-1.324,some leaves were kept in a sealed bag in the sun for a bit too long!
+42,180524,A,DRY,-0.486,nothing,-1.604,some leaves were kept in a sealed bag in the sun for a bit too long!
+117,180524,B,DRY,-1.09,nothing,-2.052,some leaves were kept in a sealed bag in the sun for a bit too long!
+118,180524,B,DRY,-1.136,nothing,-1.836,some leaves were kept in a sealed bag in the sun for a bit too long!
+146,180524,B,DRY,-0.633,nothing,-2.236,some leaves were kept in a sealed bag in the sun for a bit too long!
+148,180524,B,DRY,-0.52,nothing,-1.659,some leaves were kept in a sealed bag in the sun for a bit too long!
+160,180524,B,DRY,-0.854,nothing,-1.822,some leaves were kept in a sealed bag in the sun for a bit too long!
+163,180524,C,DRY,-0.912,nothing,-1.507,some leaves were kept in a sealed bag in the sun for a bit too long!
+165,180524,C,DRY,-0.466,nothing,-1.761,some leaves were kept in a sealed bag in the sun for a bit too long!
+170,180524,C,DRY,-0.339,nothing,-1.95,some leaves were kept in a sealed bag in the sun for a bit too long!
+176,180524,C,DRY,-0.802,nothing,-1.678,some leaves were kept in a sealed bag in the sun for a bit too long!
+209,180524,C,DRY,-0.836,nothing,-2.043,some leaves were kept in a sealed bag in the sun for a bit too long!
+10,180531,A,DRY,-0.673,nothing,-1.76,nothing
+16,180531,A,DRY,-0.76,nothing,-0.927,nothing
+23,180531,A,DRY,-1.047,nothing,-1.935,nothing
+27,180531,A,DRY,-0.457,nothing,-1.27,nothing
+36,180531,A,DRY,-0.486,nothing,-1.322,nothing
+103,180531,B,DRY,-0.632,nothing,-1.855,nothing
+106,180531,B,DRY,-0.901,nothing,-1.529,nothing
+134,180531,B,DRY,-0.581,nothing,-0.768,nothing
+153,180531,B,DRY,-0.748,nothing,-1.4,nothing
+158,180531,B,DRY,-0.531,nothing,-1.1997,nothing
+183,180531,C,DRY,-0.623,nothing,-0.635,nothing
+186,180531,C,DRY,-0.589,nothing,-1.607,nothing
+210,180531,C,DRY,-0.392,nothing,-1.6,nothing
+213,180531,C,DRY,-0.979,nothing,-1.639,nothing
+219,180531,C,DRY,-0.388,nothing,-1.425,nothing
+1,180613,A,DRY,-0.578,nothing,-0.815,nothing
+14,180613,A,DRY,-0.69,nothing,-2.236,nothing
+20,180613,A,DRY,-0.674,nothing,-1.249,nothing
+44,180613,A,DRY,-3.17,nothing,-3.597,nothing
+45,180613,A,DRY,-1.273,nothing,-2.037,nothing
+111,180613,B,DRY,-4.206,nothing,-3.624,nothing
+129,180613,B,DRY,-1.027,nothing,-2.034,nothing
+132,180613,B,DRY,-2.54,nothing,-2.561,nothing
+135,180613,B,DRY,-3.952,nothing,-3.897,nothing
+144,180613,B,DRY,-1.076,nothing,-2.178,nothing
+164,180613,C,DRY,-1.218,nothing,-1.692,nothing
+167,180613,C,DRY,-1.216,nothing,-1.658,nothing
+168,180613,C,DRY,-2.5,nothing,-3.519,nothing
+182,180613,C,DRY,-1.075,nothing,-1.513,nothing
+206,180613,C,DRY,-2.109,nothing,-2.433,nothing
+9,180620,A,DRY,-4.383,nothing,-5.342,measurements from 12.30 to 14.30
+12,180620,A,DRY,-1.807,nothing,-2.423,measurements from 12.30 to 14.30
+15,180620,A,DRY,-1.504,nothing,-2.531,measurements from 12.30 to 14.30
+21,180620,A,DRY,-1.89,nothing,-2.459,measurements from 12.30 to 14.30
+89,180620,A,DRY,-2.644,nothing,-2.854,measurements from 12.30 to 14.30
+109,180620,B,DRY,-2.507,nothing,-2.356,measurements from 12.30 to 14.30
+115,180620,B,DRY,-1.789,nothing,-2.981,measurements from 12.30 to 14.30
+123,180620,B,DRY,-1.816,nothing,-2.519,measurements from 12.30 to 14.30
+143,180620,B,DRY,-2.773,nothing,-2.76,measurements from 12.30 to 14.30
+150,180620,B,DRY,-2.372,nothing,-2.662,measurements from 12.30 to 14.30
+188,180620,C,DRY,-3.987,nothing,-4.075,measurements from 12.30 to 14.30
+189,180620,C,DRY,-4.32,nothing,-4.277,measurements from 12.30 to 14.30
+208,180620,C,DRY,NA,value below -7.2 Mpa,NA,value below -7.2 Mpa. measurements from 12.30 to 14.30
+212,180620,C,DRY,-2.512,nothing,-2.856,measurements from 12.30 to 14.30
+216,180620,C,DRY,NA,value below -7.2 Mpa,NA,value below -7.2 Mpa. measurements from 12.30 to 14.30
